@@ -1,0 +1,17 @@
+path: C:/MyProjects/Yolo/data2
+
+train: train  
+val: val     
+test: test    
+
+
+
+nc: 10
+names: ['A11', 'A12', 'A20', 'C11', 'E1', 'E13', 'E3', 'E6', 'E9', 'F1-4']
+
+roboflow:
+  workspace: gundam-rmqip
+  project: gundam01-eazzy
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/gundam-rmqip/gundam01-eazzy/dataset/1

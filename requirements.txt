@@ -1,0 +1,7 @@
+gradio
+ultralytics
+psycopg2-binary
+google-genai
+sentence-transformers
+python-dotenv
+markdown
