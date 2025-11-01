@@ -1,11 +1,10 @@
-<p align="center">
-  <img src="assets/GunplaScan.gif" alt="GunplaScan Demo" style="max-width: 90%; height: auto;">
-</p>
-
 # GunplaScan
 
 > 剪了一堆零件下來，卻找不到零件編號多少，忘記在哪一個組裝步驟嗎?GunplaScan 透過 YOLO 物件偵測與 Gemini VLM，查找零件編號與得到組裝說明書和指南。
 **⚠️ 免責聲明：本軟體僅供個人學習與研究用途，使用者需自負版權與安全責任。**
+<p align="center">
+  <img src="assets/GunplaScan.gif" alt="GunplaScan Demo" style="max-width: 90%; height: auto;">
+</p>
 
 ## ✨ 核心功能 (Features)
 - 實時零件識別： 使用手機鏡頭或上傳圖片，精確鎖定已剪下的零件（例如 A11, E13）。
